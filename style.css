@@ -1,17 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
-html {
-    --bg: rgba(24, 27, 30);
-    --emojired: #DD2E44;
-    --emojiyellow: #F4900C;
-    --emojigreen: #77B255;
-    --emojiblue: #3B88C3;
-    --emojipurple: #9266CC;
-
-    background-color: var(--bg);
-    height: 100%;
-}
-
 p, h1 {
     font-family: Lato, Helvetica, Arial, sans-serif;
     font-size: 16px;
